@@ -13,7 +13,7 @@ In my free time i like to go to the gym, run, rock climb, and i am learning to p
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 
-### 📫 How to reach me:
+### 📫 How to reach me
 
 LinkedIn: [linkedin.com/in/pablorivas1](https://www.linkedin.com/in/pablorivas1)  
 Email: [pablo.rivas@temple.edu](mailto:pablo.rivas@temple.edu)
