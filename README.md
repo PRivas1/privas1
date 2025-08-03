@@ -12,6 +12,7 @@ In my free time i like to go to the gym, run, rock climb, and i am learning to p
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![Lua](https://img.shields.io/badge/-Lua-000?&logo=Lua)
 
 ### 📫 How to reach me
 
