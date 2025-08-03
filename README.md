@@ -1,16 +1,21 @@
-## Hi there 👋
+## 👋 Hi there i'm Pablo!
+📍 Based in Philadelphia, PA (Temple University)
 
-<!--
-**PRivas1/privas1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am 21 years old and am currently studying computer science at temple university!
+I enjoy coding, computers, and technology as a whole.
+In my free time i like to go to the gym, run, rock climb, and i am learning to play the guitar!
 
-Here are some ideas to get you started:
+### Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+
+📫 How to reach me:
+
+LinkedIn: [linkedin.com/in/pablorivas1](https://www.linkedin.com/in/pablorivas1)  
+Email: [pablo.rivas@temple.edu](mailto:pablo.rivas@temple.edu)
+
+🌐 Check out my personal website! [pablorivas.xyz](https://pablorivas.xyz)  
