@@ -14,6 +14,18 @@ In my free time i like to go to the gym, run, rock climb, and i am learning to p
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![Lua](https://img.shields.io/badge/-Lua-000?&logo=Lua)
 
+### Technologies
+
+![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase&logoColor=FFCA28)
+![Expo](https://img.shields.io/badge/-Expo-000?&logo=Expo&logoColor=white)
+![React Native](https://img.shields.io/badge/-React%20Native-000?&logo=React&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=next.js&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-000?&logo=vite&logoColor=646CFF)
+![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5&logoColor=E34F26)![Vercel](https://img.shields.io/badge/-Vercel-000?&logo=vercel&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-000?&logo=supabase&logoColor=3ECF8E)
+![Render](https://img.shields.io/badge/-Render-000?&logo=render&logoColor=46E3B7)
+
+
 ### 📫 How to reach me
 
 LinkedIn: [linkedin.com/in/pablorivas1](https://www.linkedin.com/in/pablorivas1)  
