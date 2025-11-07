@@ -18,6 +18,7 @@ In my free time i like to go to the gym, run, rock climb, and i am learning to p
 
 ### Technologies
 
+![React](https://img.shields.io/badge/-React-000?&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js&logoColor=339933)
 ![Azure Functions](https://custom-icon-badges.demolab.com/badge/Azure%20Functions-000?logo=azure-functions&logoColor=fff)
 ![Azure Static Web Apps](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-000?logo=msazure&logoColor=white)
