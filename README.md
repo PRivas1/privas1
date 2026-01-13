@@ -1,7 +1,7 @@
 ## 👋 Hi there i'm Pablo!
 ### 📍 Based in Philadelphia, PA (Temple University)
 
-I am 21 years old and am currently studying computer science at temple university!
+I am 21 years old and am currently studying computer science at Temple University!
 I enjoy coding, computers, and technology as a whole.
 In my free time i like to go to the gym, run, rock climb, and i am learning to play the guitar!
 
@@ -41,4 +41,3 @@ In my free time i like to go to the gym, run, rock climb, and i am learning to p
 LinkedIn: [linkedin.com/in/pablorivas1](https://www.linkedin.com/in/pablorivas1)  
 Email: [pablo.rivas@temple.edu](mailto:pablo.rivas@temple.edu)
 
-### 🌐 Check out my personal website! [pablorivas.xyz](https://pablorivas.xyz)  
